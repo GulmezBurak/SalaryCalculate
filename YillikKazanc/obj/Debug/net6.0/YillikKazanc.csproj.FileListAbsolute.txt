@@ -1,0 +1,15 @@
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\bin\Debug\net6.0\YillikKazanc.exe
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\bin\Debug\net6.0\YillikKazanc.deps.json
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\bin\Debug\net6.0\YillikKazanc.runtimeconfig.json
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\bin\Debug\net6.0\YillikKazanc.dll
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\bin\Debug\net6.0\YillikKazanc.pdb
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.AssemblyInfo.cs
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.dll
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\refint\YillikKazanc.dll
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.pdb
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\YillikKazanc.genruntimeconfig.cache
+C:\Users\90536\Desktop\YillikKazanc\YillikKazanc\obj\Debug\net6.0\ref\YillikKazanc.dll
